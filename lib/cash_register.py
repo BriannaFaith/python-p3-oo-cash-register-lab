@@ -39,11 +39,3 @@ cash_register.add_item("Justin's Peanut Butter Cups", 2.50, 2)
 cash_register.apply_discount()
 cash_register.void_last_transaction()
 print(cash_register.total)
-
-
-
-
-# new_register = CashRegister()
-# new_register.add_item("eggs", 1.99, 2)
-# new_register.add_item("tomato", 1.76, 3)
-# print(new_register.items)
